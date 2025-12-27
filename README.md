@@ -1,6 +1,6 @@
 # 📊 Wuzzuf
 <p align="center">
-  <img src="logo/wuzzuf_logo.jpg" alt="Wuzzuf Logo" width="300"/>
+  <img src="logo/wuzzuf_logo.jpg" alt="Wuzzuf Logo" width="500"/>
 </p>
 
 
