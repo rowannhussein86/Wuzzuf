@@ -1,5 +1,5 @@
 # 📊 Wuzzuf Job Market Data Analysis
-[wuzzuf_logo.jpg](https://images.wuzzuf-data.net/files/company_logo/Events-Egypt-45885-1566989817-og.png)
+[wuzzuf_logo.jpg](logo/wuzzuf_logo.jpg)
 
 ## Overview
 This project focuses on **scraping, cleaning, and analyzing job postings data from Wuzzuf** to gain insights into the job market.  
