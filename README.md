@@ -1,4 +1,5 @@
 # 📊 Wuzzuf Job Market Data Analysis
+<img src="[wuzzuf_logo.jpg](https://images.wuzzuf-data.net/files/company_logo/Events-Egypt-45885-1566989817-og.png)" width="800">
 
 ## Overview
 This project focuses on **scraping, cleaning, and analyzing job postings data from Wuzzuf** to gain insights into the job market.  
@@ -33,4 +34,3 @@ It covers the complete data pipeline starting from **web scraping** to **data an
 
 ---
 
-## Project Structure
