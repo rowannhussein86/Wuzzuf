@@ -1,5 +1,5 @@
-# 📊 Wuzzuf Job Market Data Analysis
-[wuzzuf_logo.jpg](logo/wuzzuf_logo.jpg)
+# 📊 Wuzzuf
+![wuzzuf_logo.jpg](logo/wuzzuf_logo.jpg)
 
 ## Overview
 This project focuses on **scraping, cleaning, and analyzing job postings data from Wuzzuf** to gain insights into the job market.  
